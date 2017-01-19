@@ -1,6 +1,6 @@
 export default function() {
 	return [
-		{title: 'Javascript'},
+		{title: 'Prova'},
 		{title: 'Harry Potter'},
 		{title: 'The Dark Tower'},
 		{title: 'Eloquent Ruby'}
