@@ -34,4 +34,6 @@ function mapStateToProps(state) {
 	};
 }
 
+
+// connect function imported on top from react-redux library
 export default connect(mapStateToProps)(BookList);
